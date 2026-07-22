@@ -15,7 +15,7 @@
 * annotations-3.xml
 
 ### Скрипты:
-* XML1_total_stats
-* XML1_total_stats
+* XML1_total_stats.py
+* XML2_class_stats.py
 * XML3_total_stats
 * XML4_total_stats
